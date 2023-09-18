@@ -1,0 +1,77 @@
+H:\COMPX102\2022\Circuits\Circuits\bin\Debug\Circuits.exe.config
+H:\COMPX102\2022\Circuits\Circuits\bin\Debug\Circuits.exe
+H:\COMPX102\2022\Circuits\Circuits\bin\Debug\Circuits.pdb
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.exe
+H:\COMPX102\2022\Circuits\Circuits\obj\Debug\Circuits.pdb
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\bin\Debug\Circuits.exe.config
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\bin\Debug\Circuits.exe
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\bin\Debug\Circuits.pdb
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.Form1.resources
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.exe
+H:\COMPX102\2022\Circuits-TemplateFolder\Circuits\obj\Debug\Circuits.pdb
+H:\semesterB\COMPX102\Circuits\Circuits\Circuits\bin\Debug\Circuits.exe.config
+H:\semesterB\COMPX102\Circuits\Circuits\Circuits\bin\Debug\Circuits.exe
+H:\semesterB\COMPX102\Circuits\Circuits\Circuits\bin\Debug\Circuits.pdb
+H:\semesterB\COMPX102\Circuits\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+H:\semesterB\COMPX102\Circuits\Circuits\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+H:\semesterB\COMPX102\Circuits\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+H:\semesterB\COMPX102\Circuits\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+H:\semesterB\COMPX102\Circuits\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+H:\semesterB\COMPX102\Circuits\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+H:\semesterB\COMPX102\Circuits\Circuits\Circuits\obj\Debug\Circuits.exe
+H:\semesterB\COMPX102\Circuits\Circuits\Circuits\obj\Debug\Circuits.pdb
+H:\COMPX102-22B\Circuits\Circuits\bin\Debug\Circuits.exe.config
+H:\COMPX102-22B\Circuits\Circuits\bin\Debug\Circuits.exe
+H:\COMPX102-22B\Circuits\Circuits\bin\Debug\Circuits.pdb
+H:\COMPX102-22B\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+H:\COMPX102-22B\Circuits\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102-22B\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+H:\COMPX102-22B\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+H:\COMPX102-22B\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+H:\COMPX102-22B\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+H:\COMPX102-22B\Circuits\Circuits\obj\Debug\Circuits.exe
+H:\COMPX102-22B\Circuits\Circuits\obj\Debug\Circuits.pdb
+H:\semesterB\Circuits\Circuits\Circuits\bin\Debug\Circuits.exe.config
+H:\semesterB\Circuits\Circuits\Circuits\bin\Debug\Circuits.exe
+H:\semesterB\Circuits\Circuits\Circuits\bin\Debug\Circuits.pdb
+H:\semesterB\Circuits\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+H:\semesterB\Circuits\Circuits\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+H:\semesterB\Circuits\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+H:\semesterB\Circuits\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+H:\semesterB\Circuits\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+H:\semesterB\Circuits\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+H:\semesterB\Circuits\Circuits\Circuits\obj\Debug\Circuits.exe
+H:\semesterB\Circuits\Circuits\Circuits\obj\Debug\Circuits.pdb
+C:\Users\marce\Downloads\Circuits-Marcel\Circuits\Circuits\Circuits\bin\Debug\Circuits.exe.config
+C:\Users\marce\Downloads\Circuits-Marcel\Circuits\Circuits\Circuits\bin\Debug\Circuits.exe
+C:\Users\marce\Downloads\Circuits-Marcel\Circuits\Circuits\Circuits\bin\Debug\Circuits.pdb
+C:\Users\marce\Downloads\Circuits-Marcel\Circuits\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+C:\Users\marce\Downloads\Circuits-Marcel\Circuits\Circuits\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+C:\Users\marce\Downloads\Circuits-Marcel\Circuits\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+C:\Users\marce\Downloads\Circuits-Marcel\Circuits\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+C:\Users\marce\Downloads\Circuits-Marcel\Circuits\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+C:\Users\marce\Downloads\Circuits-Marcel\Circuits\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+C:\Users\marce\Downloads\Circuits-Marcel\Circuits\Circuits\Circuits\obj\Debug\Circuits.exe
+C:\Users\marce\Downloads\Circuits-Marcel\Circuits\Circuits\Circuits\obj\Debug\Circuits.pdb
+H:\semesterB\COMPX102\circuits final\Circuits - Final\Circuits\Circuits\bin\Debug\Circuits.exe.config
+H:\semesterB\COMPX102\circuits final\Circuits - Final\Circuits\Circuits\bin\Debug\Circuits.exe
+H:\semesterB\COMPX102\circuits final\Circuits - Final\Circuits\Circuits\bin\Debug\Circuits.pdb
+H:\semesterB\COMPX102\circuits final\Circuits - Final\Circuits\Circuits\obj\Debug\Circuits.csproj.AssemblyReference.cache
+H:\semesterB\COMPX102\circuits final\Circuits - Final\Circuits\Circuits\obj\Debug\Circuits.csproj.SuggestedBindingRedirects.cache
+H:\semesterB\COMPX102\circuits final\Circuits - Final\Circuits\Circuits\obj\Debug\Circuits.Form1.resources
+H:\semesterB\COMPX102\circuits final\Circuits - Final\Circuits\Circuits\obj\Debug\Circuits.Properties.Resources.resources
+H:\semesterB\COMPX102\circuits final\Circuits - Final\Circuits\Circuits\obj\Debug\Circuits.csproj.GenerateResource.cache
+H:\semesterB\COMPX102\circuits final\Circuits - Final\Circuits\Circuits\obj\Debug\Circuits.csproj.CoreCompileInputs.cache
+H:\semesterB\COMPX102\circuits final\Circuits - Final\Circuits\Circuits\obj\Debug\Circuits.exe
+H:\semesterB\COMPX102\circuits final\Circuits - Final\Circuits\Circuits\obj\Debug\Circuits.pdb
